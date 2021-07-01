@@ -1,0 +1,116 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hitom/Documents/ProjetosGit/SistemasDigitais/TP6Teste/Solucao
+Pp_arb
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 w1607002647
+R0
+8p_arb.vhd
+Fp_arb.vhd
+l0
+L10
+VNM:j26L=Q1JoY=V@EBn3E3
+!s100 QB^9;80N4l]6GR^cCPB=F0
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1607108881
+!i10b 1
+Z6 !s108 1607108881.000000
+!s90 -reportprogress|300|-work|work|p_arb.vhd|
+!s107 p_arb.vhd|
+!i113 1
+Z7 o-work work -O0
+Z8 tExplicit 1
+Etb
+R3
+R1
+R2
+R0
+Z9 8tb.vhd
+Z10 Ftb.vhd
+l0
+L10
+V[YJ8<0PIID4TF`65P>:6l3
+!s100 V=C=Q?WLg;S<_29NdYZg51
+R4
+32
+R5
+!i10b 1
+R6
+Z11 !s90 -reportprogress|300|-work|work|tb.vhd|
+Z12 !s107 tb.vhd|
+!i113 1
+R7
+R8
+Atb
+Z13 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z14 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z15 DEx4 work 6 tx_req 0 22 @6zhA@HM]dW^R_5KDBYH[1
+R1
+R2
+DEx4 work 2 tb 0 22 [YJ8<0PIID4TF`65P>:6l3
+l24
+L16
+V8NMeRci;8WRX?zVQE<SdO3
+!s100 1DddzXdfb@QI>23@JXJi?3
+R4
+32
+R5
+!i10b 1
+R6
+R11
+R12
+!i113 1
+R7
+R8
+Etx_req
+R3
+R13
+R14
+R1
+R2
+R0
+Z16 8ex4.vhd
+Z17 Fex4.vhd
+l0
+L11
+V@6zhA@HM]dW^R_5KDBYH[1
+!s100 SPf=dZ7mS>QoGYDEjZCQ81
+R4
+32
+R5
+!i10b 1
+R6
+Z18 !s90 -reportprogress|300|-work|work|ex4.vhd|
+Z19 !s107 ex4.vhd|
+!i113 1
+R7
+R8
+Atx_req
+R13
+R14
+R1
+R2
+R15
+l26
+L22
+Vkb<3E=I2NmW677:Qjh1_12
+!s100 58Y?:U50<9dckYjT70kOl0
+R4
+32
+R5
+!i10b 1
+R6
+R18
+R19
+!i113 1
+R7
+R8
